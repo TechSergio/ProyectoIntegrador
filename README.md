@@ -1,8 +1,11 @@
-# React + Vite
+# Proyecto Integrado - Repositorio Frontend - 
+## Descripción
+Esta es una tienda de reserva de artículos musicales que ofrece una amplia variedad de productos relacionados con la música, como instrumentos, equipos de sonido, accesorios y más. La plataforma cuenta con un panel de administrador que permite gestionar el inventario, categorias y caracteristicas, administrar usuarios. Además, los usuarios tienen la posibilidad de registrarse, iniciar sesión en sus cuentas personales, realizar reservas segun la fecha de disponibilidad, guardar productos en su lista de favoritos. Con una interfaz intuitiva y funciones de seguridad robustas, nuestra tienda de artículos musicales proporciona una experiencia de reserva en línea segura y conveniente para los amantes de la música de todas partes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías Utilizadas
+- React: Biblioteca de JavaScript utilizada para construir la interfaz de usuario dinámica y reactiva.
+- Router.
+- Axios.
+- 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
